@@ -68,9 +68,9 @@ DB_USERNAME=laravel_user
 DB_PASSWORD=laravel_pass
 
 アプリケーションキーの作成     
-php artisan key:generate
-マイグレーションの実行
-php artisan migrate
-シーディングの実行
-php artisan db:seed
+php artisan key:generate　
+マイグレーションの実行　
+php artisan migrate　
+シーディングの実行　
+php artisan db:seed　
 
