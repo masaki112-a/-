@@ -1,5 +1,8 @@
 勤怠管理アプリ
 
+![スクリーンショット 2025-01-16 204203](https://github.com/user-attachments/assets/03d3948c-7d8c-4d17-b281-e1ea5f71042a)
+
+
 環境構築
 Dockerビルド
 
