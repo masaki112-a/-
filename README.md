@@ -1,9 +1,12 @@
 勤怠管理アプリ
+
 環境構築
 Dockerビルド
 
 git clone git@github.com:masaki112-a/-.git
+
 DockerDesktopアプリを立ち上げる
+
 docker-compose up -d --build
 
 
